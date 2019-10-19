@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570443629 source:c:\users\d2k\desktop\lat inventori\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1570445614 source:d:\game prog\lat inventori\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+
